@@ -1,7 +1,7 @@
 # GALT – Sistema de Gerenciamento de Equipamentos e Salas
 
 
-<img src="documents/assets/Cover-GALT.jpg" />
+<img src="../documents/assets/Cover-GALT.jpg" />
 
 ## Descrição
 
